@@ -17,4 +17,4 @@ This project is a loading page created using React, Tailwind CSS, and GSAP (Gree
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Muthu404200/React-Gsap-Loading.git
