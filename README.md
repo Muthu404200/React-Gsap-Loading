@@ -2,9 +2,11 @@
 
 This project is a loading page created using React, Tailwind CSS, and GSAP (GreenSock Animation Platform). It showcases smooth animations and a modern design.
 
-## Demo
-
-[Live Demo](your-live-demo-link)
+## Preview
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Loading_Page.gif">
+  <img alt="GIF description" src="./Loading_Page.gif" width="500px" heigth="500px">
+</picture>
 
 ## Features
 
